@@ -1,0 +1,47 @@
+body {
+	padding-top: 30px;
+/*	background-color: #222;
+*/	color: black;
+}
+/*header h1 {
+	text-align: center;
+	color: white;
+	text-transform: bold;
+	margin-top: -70px;
+	padding-bottom: 20px;
+}*/
+#firstbgimg {
+
+	background: url("Bicycle-min.jpg") 70% 0 fixed;
+	height: auto;
+	margin: 0 auto;
+	width: 100%;
+	position: relative;
+	padding: 100px 0 150px 0;
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	background-size: cover;
+}
+
+p {
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 25px;
+}
+/*.toptextbox {
+	border: 1px gray solid;
+	padding: 5px;
+	border-radius: 15px;
+	background-color: lightgray;
+	float: left;
+}*/
+.footerimg {
+	border-radius: 15px;
+	
+}
+@media (max-width: 48em) {
+ table .btn {
+ font-size: 0.75rem;
+ font-size: 3.5vw;
+ }
+}
